@@ -3,7 +3,6 @@ Kaggle competition: Global Wheat Detection - identification of wheat heads from 
 
 * Encoder-Decoder model
 * Adam Optimizer: starting dynamic learning rate (ReduceLRonPlateau, starting rate = 0.01) and Early Stopping
-* Epochs = 50
 * Test accuracy = 84%
 
 ### Test images (10 images from test directory)

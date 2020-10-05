@@ -1,3 +1,21 @@
+.idea/
+annotations/
+create_target_images.py
+create_target_images_v2.py
+exploring_ylabels.ipynb
+gwd_stage2_v1.ipynb
+gwd_stage3_v1.ipynb
+gwd_stage3_v5.ipynb
+gwd_v1.ipynb
+images/
+sample_submission.csv
+test/
+testdir/
+train.csv
+train/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

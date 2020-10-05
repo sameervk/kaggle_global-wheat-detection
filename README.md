@@ -1,7 +1,7 @@
 # kaggle_global_wheat_detection
 Kaggle competition: Global Wheat Detection - identification of wheat heads from images
 
-* Encoder-Decoder model
+* Encoder-Decoder model implemented in tensorflow keras (2.2.0)
 * Adam Optimizer: starting dynamic learning rate (ReduceLRonPlateau, starting rate = 0.01) and Early Stopping
 * Test accuracy = 84%
 
